@@ -1,5 +1,5 @@
-import {Header} from './Components/Header/Header.jsx'
-import {Footer} from './Components/Footer/Footer.jsx'
+import { Header } from './components/Header/Header.jsx';
+import { Footer } from './components/Footer/Footer.jsx'
 import "./globals.css";
 
 
